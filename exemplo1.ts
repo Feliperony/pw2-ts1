@@ -1,2 +1,2 @@
-let message : string ="Hello World"
+let message : string ="Suave na Nave, Tranquilo no grilo"
 console.log(message);
